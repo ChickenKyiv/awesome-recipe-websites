@@ -24,57 +24,53 @@
 - hhttps://baumancollege.org/forum/index.php/board,29.0.html baumancollege Health community
 - http://forums.redflagdeals.com/balsamic-salt-recipe-939043/  redflagdeals Cooking Forum
 
-- http://www.kidswithfoodallergies.org/page/recipes-diet.aspx kidswithfoodallergies healthy cooking forum 
-- https://www.reddit.com/r/DIY_eJuice/
-- http://www.horseandhound.co.uk/forums/showthread.php?685155-Leather-Conditioner-Recipe
-- https://www.vocalpoint.com/articles/community-forum-meal-planning-made-easy
-- http://www.city-data.com/forum/recipes/1131203-no-fuss-overnight-turkey-recipe-cooks.html
+- http://www.kidswithfoodallergies.org/page/recipes-diet.aspx kidswithfoodallergies healthy cooking forum
+- https://www.reddit.com/r/DIY_eJuice/ reddit July Recipes
+
+- https://www.vocalpoint.com/articles/community-forum-meal-planning-made-easy vocalpoint Community Forum: Meal Planning Made Easy!
+- http://www.city-data.com/forum/recipes/1131203-no-fuss-overnight-turkey-recipe-cooks.html city-data.com Recipes forum
 
 
 - http://www.ukrainianclassickitchen.ca/index.php
+ukrainianclassickitchen Forum
 
-
-- http://cookieconnection.juliausher.com/topic/sugar-cookie-recipe
-- https://www.ibreatheimhungry.com/easy-roasted-turkey-with-sage-butter/
+- http://cookieconnection.juliausher.com/topic/sugar-cookie-recipe juliausher Cookies Recipe Forum
+- https://www.ibreatheimhungry.com/easy-roasted-turkey-with-sage-butter/ ibreatheimhungry Recipes Directory
 - https://www.planetofthevapes.co.uk/forums/advanced-pv-mod-making-and-diy-discussion/mixology/threads/recipe-mega-thread.70266/
-- https://www.arthritis-health.com/video/anti-inflammatory-recipe-video-turkey-and-quinoa-stuffed-peppers
-- https://www.noodlesoft.com/forums/viewtopic.php?f=4&t=1593
-
-- https://www.englishforum.ch/general-off-topic/33570-siedfleisch-recipe.html
-- https://www.thestaffcanteen.com/
-- http://forum.isthmus.com/viewtopic.php?t=52598
-- https://www.nytimes.com/2017/01/31/dining/instant-pot-electric-pressure-cooker-recipes.html
 
 
-- https://www.danlepard.com/
-- https://www.kidspot.com.au/
 
-- https://botw.org/top/Home/Cooking/Forums/
-- https://cheftalk.com/
-
-- http://www.whatsbestforum.com/forumdisplay.php?145-Best-Cooking-Recipes
-- https://stellaculinary.com/forum
-
-- http://www.cookingforums.net/
-- https://www.discusscooking.com/
-- https://ths.gardenweb.com/forums/cooking
-- https://www.chefsteps.com/forum
-- http://campinnforum.com/community/forums/camp-cooking-dutch-ovens.32/
+- https://www.thestaffcanteen.com/ thestaffcanteen Recipes  
+- http://forum.isthmus.com/viewtopic.php?t=52598 isthmus food-drink Forum
+- https://www.nytimes.com/section/food NYT Food section
 
 
-- https://amazingribs.com/links-our-favorite-websites/best-food-and-cooking-websites-blogs-and-references
-- http://www.pepperberriesinc.com/BrowseThreads.aspx?ForumID=3
-- https://www.tripadvisor.ie/ShowTopic-g294226-i7220-k11532851-Kid_friendly_Cooking_Class-Bali.html
+- https://www.danlepard.com/  danlepard Recipe website
+- https://www.kidspot.com.au/kitchen/ kidspot.com.au Recipe Directory  
 
-- http://www.netcookingtalk.com/forums/
-- https://www.reddit.com/r/Cooking/
-- http://www.city-data.com/forum/food-drink/
-- https://www.lonelyplanet.com/thorntree/forums/get-stuffed/topics/bulgur-best-way-to-cook-it
+- https://botw.org/top/Home/Cooking/Forums/   botw.org Cooking Forum
 
-- https://www.tripadvisor.in/ShowTopic-g297633-i7524-k10112027-Best_cooking_classes_in_Kochin-Kochi_Cochin_Kerala.html
-- http://www.cookingbites.com/
 
-- http://forum.bodybuilding.com/showthread.php?t=138586983&pagenumber=1
+- http://www.whatsbestforum.com/forumdisplay.php?145-Best-Cooking-Recipes whatsbestforum Cooking Section
+- https://stellaculinary.com/forum/active stellaculinary Forum
+
+
+
+- https://ths.gardenweb.com/forums/cooking gardenweb Cooking Forum
+- https://www.chefsteps.com/forum chefsteps The ChefSteps Community Forum  
+- http://campinnforum.com/community/forums/camp-cooking-dutch-ovens.32/ campinnforum Camp Cooking & Dutch Ovens
+
+
+- https://amazingribs.com/links-our-favorite-websites/best-food-and-cooking-websites-blogs-and-references  best-food-and-cooking-websites-blogs-and-references
+
+- http://www.netcookingtalk.com/forums/ netcookingtalk Forum
+- https://www.reddit.com/r/Cooking/ Reddit Cooking
+
+
+
+- http://www.cookingbites.com/ cookingbites
+
+
 - https://permies.com/t/13943/kitchen/solar-cooker
 - https://boards.straightdope.com/sdmb/showthread.php?t=559035
 
