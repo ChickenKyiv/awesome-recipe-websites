@@ -68,7 +68,7 @@ ukrainianclassickitchen Forum
 
 
 
-- http://www.cookingbites.com/ cookingbites
+- http://www.cookingbites.com/ CookingBites Cooking Forum
 
 
 - https://permies.com/t/13943/kitchen/solar-cooker
@@ -83,7 +83,7 @@ ukrainianclassickitchen Forum
 - http://foodsoftheworld.activeboards.net/
 - http://www.cleancooking2017.org/site-visits/
 - http://www.dcurbanmom.com/jforum/forums/show/46.page
-- http://eggheadforum.com/
+
 - https://www.mydomaine.co.uk/beginner-cooking-skills
 - https://www.theitaliancookbook.com/
 - https://www.chinese-forums.com/forums/forum/11-food-and-drink/
@@ -97,10 +97,8 @@ ukrainianclassickitchen Forum
 - https://www.barbecue-smoker-recipes.com/kamado-cooking.html
 
 - https://www.spyderco.com/forumII/viewtopic.php?t=75176
-- https://www.spyderco.com/forumII/viewtopic.php?t=75176
+
 - https://cleverguts.com/forums/topic/cooking-pastarice-cooling-and-reheating/
 
 - http://www.bbqgeeks.com/forum/
 - http://texasbbqforum.com/
-
-----
