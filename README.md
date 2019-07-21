@@ -47,35 +47,36 @@ mobileread E-Book Recipes Section
 
 
 
-- http://fastrecipe.info/
+- http://fastrecipe.info/ (down)
 
-- https://thebloodsugardiet.com/recipe-submission-page/
-- http://www.lilaruthgrainfree.com/
+- https://thebloodsugardiet.com/ The blood sugar diet recipes website
+- http://www.lilaruthgrainfree.com/ (down)
 
-- http://www.sicilianfoodculture.com/
-- http://www.geniuskitchen.com/ideas/all-time-best-dinner-recipes-6009
-- https://www.tasteofhome.com/taste-of-home-community
-- http://www.phlaunt.com/diabetes/43068114.php
+- http://www.sicilianfoodculture.com/  sicilianfoodculture website  
+- http://www.geniuskitchen.com/ideas/all-time-best-dinner-recipes-6009 food.com all-time-best-dinner-recipes-6009
+- https://www.tasteofhome.com/taste-of-home-community TasteOfHome recipe directory
+https://www.bloodsugar101.com/ Recipes for diabetes
 
-- https://www.cakecentral.com/forum
-- http://thewartburgwatch.com/interesting/dont-get-mad-cook-favorite-recipes-forum/
+- https://www.cakecentral.com/forum cakecentral Cake Decorating Forum
+- http://thewartburgwatch.com/interesting/dont-get-mad-cook-favorite-recipes-forum/ Don’t Get Mad-Cook! Favorite Recipes Forum
 - https://cpin.us/content/child-care-meal-quality-forums-0
-
-- https://social.technet.microsoft.com/Forums/en-US/home?forum=prescriptiveguidance
-- https://www.bariatricpal.com/topic/414481-recipe-builder/
-
-- http://www.fabbysdelights.com/
-
-- http://www.amazingfoodmadeeasy.com/modernist-cooking-forums
-- https://www.smokingmeatforums.com/
-- http://eggheadforum.com/categories/cookbook
-- https://foodcombo.com/
-- http://community.jennycraig.com/
+Child Care Meal Quality Forums
 
 
-- https://www.mumsnet.com/Talk/food_and_recipes
-- http://www.pelletsmoking.com/
-- https://cleverguts.com/forums/topic/clever-guts-diet-recipes-and-the-52-serialised-in-the-daily-mail/
+- https://www.bariatricpal.com/topic/414481-recipe-builder/  bariatricPal Recipe Forum
+
+- http://www.fabbysdelights.com/ fabbysdelights Recipes
+
+- http://www.amazingfoodmadeeasy.com/modernist-cooking-forums amazingfoodmadeeasy modernist-cooking-forums collection
+- https://www.smokingmeatforums.com/ smokingmeatforums
+- http://eggheadforum.com/categories/cookbook EGGhead Cooking Forum
+- https://foodcombo.com/ foodcombo Pantry Recipes
+- https://community.jennycraig.com/forum/34-food/ JennyCraig Weight Loss Forum   
+
+
+- https://www.mumsnet.com/Talk/food_and_recipes mumsnet Food Community
+- http://www.pelletsmoking.com/ pelletsmoking Cooking Forum
+- https://cleverguts.com/forums/topic/clever-guts-diet-recipes-and-the-52-serialised-in-the-daily-mail/ 
 - https://www.diabetes.co.uk/forum/threads/high-protein-bread-rolls-recipe.122577/
 
 - http://pattilabelle.com/forum/index.php?threads/pattis-over-the-rainbow-mac-cheese-recipe.15/
