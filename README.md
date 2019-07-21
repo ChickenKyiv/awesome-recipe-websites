@@ -3,26 +3,28 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-recipe-websites) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-recipe-websites)
 ![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
 
-- http://www.recipetips.com/community/forums/c-9-0-0-0/recipe-forums.asp
+- http://www.recipetips.com/community/forums/c-9-0-0-0/recipe-forums.asp RecipeTips Cooking community
 
 
-- https://www.diabetesdaily.com/forum/recipes/
-- https://recipehelpers.com/forum/
-- https://www.chowhound.com/home-cooking
-- https://community.qvc.com/t5/Recipes/bd-p/recipes
-- https://www.recipesecrets.net/forums/
-- http://forums.finecooking.com/
-- http://www.thefreshloaf.com/forum
-- https://www.recipecommunity.com.au/forum
-- https://cheftalk.com/forums/recipes.11/
-- https://www.wholefoodsmarket.com/recipe-forums
-- https://recipeland.com/talk
-- http://www.discusscooking.com/forums/f5/
+- https://www.diabetesdaily.com/forum/recipes/ DiabetesDaily Community - Recipes
+- https://recipehelpers.com/forum/ RecipeHelpers Recipe Sharing Community
+- https://www.chowhound.com/home-cooking  Chowhound -largest community of knowledgeable food enthusiasts.
+- https://community.qvc.com/t5/Recipes/bd-p/recipes QVC Recipe Community forum
+- https://www.recipesecrets.net/forums/  Recipe Secrets Forum
+- http://forums.finecooking.com/  FineCooking.com Recipe Forum
+- http://www.thefreshloaf.com/forum The Fresh LoafNews & Information for Amateur Bakers and Artisan Bread Enthusiasts
+- https://www.recipecommunity.com.au/forum recipecommunity.com.au Recipes Forum
+- https://cheftalk.com/forums/recipes.11/ ChefTalk Cooking Discussions
+- https://www.wholefoodsmarket.com/recipe-forums wholefoodsmarket Recipe Forum
+- https://recipeland.com/talk Recipe Talk Forum
+- http://www.discusscooking.com/forums/f5/ Recipes & Ingredients Cooking Forum
 - http://www.essentialkids.com.au/forums/index.php?/forum/73-recipes-cooking-tips/
-- https://www.tidefans.com/forums/recipe-forum
+ Essential Kids - Recipes & Cooking Tips
 
 
-- https://www.google.com.ua/search?q=reddit+recipes&oq=reddit+recipes&aqs=chrome..69i57j0l5.1927j0j1&sourceid=chrome&ie=UTF-8
+- https://www.tidefans.com/forums/recipe-forum tidefans Recipe Forum 
+
+
 
 - https://www.homebrewtalk.com/forum/
 - https://www.lowfatlowcarb.com/recipes/
@@ -178,23 +180,3 @@
 - http://texasbbqforum.com/
 
 ----
-
-- https://www.google.com.ua/search?biw=1054&bih=540&q=professional+chef+forum&sa=X&ved=0ahUKEwjux-WuwfLaAhVJyaYKHau5DX4Q1QIIuAEoAA
-- https://www.google.com.ua/search?biw=1054&bih=540&q=cooking+message+boards&sa=X&ved=0ahUKEwiPgdKvpvLaAhUrxqYKHVBuCBc4ChDVAghrKAE
-
-----
-
-## Quora
-
-- https://www.quora.com/How-do-I-promote-my-cooking-YouTube-channel
-- https://www.quora.com/What-are-the-best-all-around-food-sites-today
-- https://www.quora.com/What-is-the-best-website-for-learning-to-cook-and-why
-- https://www.quora.com/What-are-the-best-cooking-sites-from-all-over-the-world-only-in-English
-- https://www.quora.com/Is-there-an-app-or-website-that-can-suggest-recipes-based-on-ingredients-you-have-on-hand
-- https://www.quora.com/What-sites-can-you-find-kosher-recipes
-- https://www.quora.com/What-is-the-best-platform-for-a-cooking-tips-video-site
-- https://www.quora.com/Is-there-a-cook-book-or-site-that-features-vegan-dishes-that-are-protein-rich
-- https://www.quora.com/What-are-some-of-the-best-sites-YouTube-channels-to-learn-Indian-cooking
-
-----
-pinterest
