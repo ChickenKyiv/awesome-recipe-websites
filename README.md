@@ -3,100 +3,28 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-recipe-websites) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-recipe-websites)
 ![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
 
-- http://www.recipetips.com/community/forums/c-9-0-0-0/recipe-forums.asp RecipeTips Cooking community
+
+- https://cleverguts.com/forums/topic/clever-guts-diet-recipes-and-the-52-serialised-in-the-daily-mail/  CLEVER GUTS DIET RECIPES FastDiet
+- https://www.diabetes.co.uk/forum/threads/high-protein-bread-rolls-recipe.122577/ diabetes Recipe Forum
+
+- http://pattilabelle.com/forum/index.php?threads/pattis-over-the-rainbow-mac-cheese-recipe.15/ (down)
+- https://destee.com/forums/food-discussion-and-recipes.48/ destee Food Forum
+- http://www.bestrecipes.com.au/ bestrecipes.com.au Recipe Directory
 
 
-- https://www.diabetesdaily.com/forum/recipes/ DiabetesDaily Community - Recipes
-- https://recipehelpers.com/forum/ RecipeHelpers Recipe Sharing Community
-- https://www.chowhound.com/home-cooking  Chowhound -largest community of knowledgeable food enthusiasts.
-- https://community.qvc.com/t5/Recipes/bd-p/recipes QVC Recipe Community forum
-- https://www.recipesecrets.net/forums/  Recipe Secrets Forum
-- http://forums.finecooking.com/  FineCooking.com Recipe Forum
-- http://www.thefreshloaf.com/forum The Fresh LoafNews & Information for Amateur Bakers and Artisan Bread Enthusiasts
-- https://www.recipecommunity.com.au/forum recipecommunity.com.au Recipes Forum
-- https://cheftalk.com/forums/recipes.11/ ChefTalk Cooking Discussions
-- https://www.wholefoodsmarket.com/recipe-forums wholefoodsmarket Recipe Forum
-- https://recipeland.com/talk Recipe Talk Forum
-- http://www.discusscooking.com/forums/f5/ Recipes & Ingredients Cooking Forum
-- http://www.essentialkids.com.au/forums/index.php?/forum/73-recipes-cooking-tips/
- Essential Kids - Recipes & Cooking Tips
+- https://www.bodybuilding.com/fun/healthy-recipe-database.html BodyBuilding.com Healthy Recipes
 
+- https://www.bradleysmoker.com/recipes/ bradleysmoker Recipes Directory
+- https://www.charbroil.com/cook charbroil Recipes for grill
 
-- https://www.tidefans.com/forums/recipe-forum tidefans Recipe Forum
+- https://www.curry-recipes.co.uk/curry/ curry-recipes Cooking Forum
 
+- http://teenyrecipes.com/ TeenyRecipes
+- https://breadtopia.com/ breadtopia baking recipes
+- hhttps://baumancollege.org/forum/index.php/board,29.0.html baumancollege Health community
+- http://forums.redflagdeals.com/balsamic-salt-recipe-939043/  redflagdeals Cooking Forum
 
-
-- https://www.homebrewtalk.com/forum/  homebrewtalk Recipes Forum
-- https://www.lowfatlowcarb.com/recipes/ (down)
-- http://www.igourmet.com/ST/recipes.asp .igourmet.com Recipe Forum
-
-- https://www.mobileread.com/forums/forumdisplay.php?f=228
-mobileread E-Book Recipes Section
-- https://www.happycow.net/forum/recipe happycow Recipe Community Forum
-- http://chickensintheroad.com/forum/ chickensintheroad Coocking Forum
-- https://forums.moneysavingexpert.com/showthread.php?p=490232 moneysavingexpert.com Old Recipe Index
-
-- https://forum.whole30.com/forum/25-recipe-sharing/ whole30 Recipe Community
-- https://www.houzz.com/discussions/recipe-exchange houzz Recipe Exchange
-- https://www.forumthermomix.com/ forumthermomix Recipe Forum
-
-- http://www.cookinglight.com/food Healthy Meal Recipes
-
-- https://thefastdiet.co.uk/forums/forum/food/recipes/ The Fast Diet Recipe Forum
-- http://onehouronelife.com/forums/viewtopic.php?id=34
-
-
-
-- http://fastrecipe.info/ (down)
-
-- https://thebloodsugardiet.com/ The blood sugar diet recipes website
-- http://www.lilaruthgrainfree.com/ (down)
-
-- http://www.sicilianfoodculture.com/  sicilianfoodculture website  
-- http://www.geniuskitchen.com/ideas/all-time-best-dinner-recipes-6009 food.com all-time-best-dinner-recipes-6009
-- https://www.tasteofhome.com/taste-of-home-community TasteOfHome recipe directory
-https://www.bloodsugar101.com/ Recipes for diabetes
-
-- https://www.cakecentral.com/forum cakecentral Cake Decorating Forum
-- http://thewartburgwatch.com/interesting/dont-get-mad-cook-favorite-recipes-forum/ Don’t Get Mad-Cook! Favorite Recipes Forum
-- https://cpin.us/content/child-care-meal-quality-forums-0
-Child Care Meal Quality Forums
-
-
-- https://www.bariatricpal.com/topic/414481-recipe-builder/  bariatricPal Recipe Forum
-
-- http://www.fabbysdelights.com/ fabbysdelights Recipes
-
-- http://www.amazingfoodmadeeasy.com/modernist-cooking-forums amazingfoodmadeeasy modernist-cooking-forums collection
-- https://www.smokingmeatforums.com/ smokingmeatforums
-- http://eggheadforum.com/categories/cookbook EGGhead Cooking Forum
-- https://foodcombo.com/ foodcombo Pantry Recipes
-- https://community.jennycraig.com/forum/34-food/ JennyCraig Weight Loss Forum   
-
-
-- https://www.mumsnet.com/Talk/food_and_recipes mumsnet Food Community
-- http://www.pelletsmoking.com/ pelletsmoking Cooking Forum
-- https://cleverguts.com/forums/topic/clever-guts-diet-recipes-and-the-52-serialised-in-the-daily-mail/ 
-- https://www.diabetes.co.uk/forum/threads/high-protein-bread-rolls-recipe.122577/
-
-- http://pattilabelle.com/forum/index.php?threads/pattis-over-the-rainbow-mac-cheese-recipe.15/
-- https://destee.com/forums/food-discussion-and-recipes.48/
-- http://www.bestrecipes.com.au/
-- http://www.godubois.com/index.php?/forums/
-- https://forum.wholeapproach.com/category/recipes
-- https://www.bodybuilding.com/fun/healthy-recipe-database.html
-
-- https://www.bradleysmoker.com/recipes/
-- https://www.charbroil.com/cook
-- https://paprikaapp.zendesk.com/hc/en-us
-- https://www.curry-recipes.co.uk/curry/
-
-- http://teenyrecipes.com/
-- https://breadtopia.com/
-- https://www.baumancollege.org/forum/index.php.
-- http://forums.redflagdeals.com/balsamic-salt-recipe-939043/
-
-- http://www.kidswithfoodallergies.org/page/recipes-diet.aspx
+- http://www.kidswithfoodallergies.org/page/recipes-diet.aspx kidswithfoodallergies healthy cooking forum 
 - https://www.reddit.com/r/DIY_eJuice/
 - http://www.horseandhound.co.uk/forums/showthread.php?685155-Leather-Conditioner-Recipe
 - https://www.vocalpoint.com/articles/community-forum-meal-planning-made-easy
