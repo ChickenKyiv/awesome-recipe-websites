@@ -22,30 +22,29 @@
  Essential Kids - Recipes & Cooking Tips
 
 
-- https://www.tidefans.com/forums/recipe-forum tidefans Recipe Forum 
+- https://www.tidefans.com/forums/recipe-forum tidefans Recipe Forum
 
 
 
-- https://www.homebrewtalk.com/forum/
-- https://www.lowfatlowcarb.com/recipes/
-- http://www.igourmet.com/ST/recipes.asp
-- https://www.tripadvisor.com.au/ShowTopic-g190311-i348-k4853531-Maltese_Recipe_for_Torta_with_corned_beef-Malta.html
-- https://forums.terraria.org/index.php?threads/recipe-browser.62462/
+- https://www.homebrewtalk.com/forum/  homebrewtalk Recipes Forum
+- https://www.lowfatlowcarb.com/recipes/ (down)
+- http://www.igourmet.com/ST/recipes.asp .igourmet.com Recipe Forum
+
 - https://www.mobileread.com/forums/forumdisplay.php?f=228
+mobileread E-Book Recipes Section
+- https://www.happycow.net/forum/recipe happycow Recipe Community Forum
+- http://chickensintheroad.com/forum/ chickensintheroad Coocking Forum
+- https://forums.moneysavingexpert.com/showthread.php?p=490232 moneysavingexpert.com Old Recipe Index
 
-- https://www.happycow.net/forum/recipe
-- http://chickensintheroad.com/forum/
-- https://forums.moneysavingexpert.com/showthread.php?p=490232
+- https://forum.whole30.com/forum/25-recipe-sharing/ whole30 Recipe Community
+- https://www.houzz.com/discussions/recipe-exchange houzz Recipe Exchange
+- https://www.forumthermomix.com/ forumthermomix Recipe Forum
 
-- https://forum.whole30.com/forum/25-recipe-sharing/
-- https://www.houzz.com/discussions/recipe-exchange
-- https://www.forumthermomix.com/
-- http://www.cookinglight.com/food
+- http://www.cookinglight.com/food Healthy Meal Recipes
 
-- https://thefastdiet.co.uk/forums/forum/food/recipes/
+- https://thefastdiet.co.uk/forums/forum/food/recipes/ The Fast Diet Recipe Forum
 - http://onehouronelife.com/forums/viewtopic.php?id=34
-- https://www.tripadvisor.com/ShowTopic-g292019-i4482-k2889904-Monkey_LaLa_Recipe-Roatan_Bay_Islands.html
-- https://www.e-cigarette-forum.com/forums/e-liquid-recipes.349/
+
 
 
 - http://fastrecipe.info/
